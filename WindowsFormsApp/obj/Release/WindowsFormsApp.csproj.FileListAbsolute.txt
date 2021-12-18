@@ -1,0 +1,8 @@
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.Form1.resources
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.PersonalInfo.resources
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.SecondForm.resources
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.Summary.resources
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\chams\Visual Studio projects\repos\RestaurantMenu\WindowsFormsApp\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache

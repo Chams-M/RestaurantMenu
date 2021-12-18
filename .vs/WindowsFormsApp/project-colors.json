@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c0eaaf3-bedf-4e89-8b04-c3d8a37ba6ba": {
+      "ProjectGuid": "5c0eaaf3-bedf-4e89-8b04-c3d8a37ba6ba",
+      "DisplayName": "WindowsFormsApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
